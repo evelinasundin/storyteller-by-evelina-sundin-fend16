@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a battle begins where the hero wins because of her little pug who rescued her from being killed. 
+=======
+a battle begins where the hero wins! The pug comes to her rescue.
+>>>>>>> 2f8c519fc2b1bf02498fe8fc17c2b801b566d72c
